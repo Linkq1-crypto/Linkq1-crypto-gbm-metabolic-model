@@ -1,13 +1,11 @@
 name: gbm-model
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - python=3.10
+  - cobra
   - pandas
   - numpy
   - scipy
-  - matplotlib
-  - cobra
+  - pytest
   - pip
-  - ipykernel
