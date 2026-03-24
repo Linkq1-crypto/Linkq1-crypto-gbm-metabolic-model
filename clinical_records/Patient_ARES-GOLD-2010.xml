@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<MedicalRecord system="ARES_v4_0" security="Verified">
+  <PatientData>
+    <ID>ARES-GOLD-2010</ID>
+    <AgeGroup>Pediatrico</AgeGroup>
+    <Condition>MOF+Altre</Condition>
+  </PatientData>
+  <GenomicProfile>
+    <Marker gene="IDH1">Wild-Type</Marker>
+    <Marker gene="EGFR">Stabile</Marker>
+  </GenomicProfile>
+  <SimulationResults>
+    <OptimizedDose>0.73 eV</OptimizedDose>
+    <FinalStatus>RECUPERATO</FinalStatus>
+  </SimulationResults>
+</MedicalRecord>

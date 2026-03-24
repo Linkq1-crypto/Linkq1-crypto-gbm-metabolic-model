@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<ARES_Patient_Record id="GBM-AS-1022">
+  <Metadata>
+    <Category>Pediatrico</Category>
+    <Gender>M</Gender>
+  </Metadata>
+  <Genomic_Profile>
+    <Marker>
+      <Gene>EGFR</Gene>
+      <Status>Mutato/Amplificato</Status>
+    </Marker>
+    <Marker>
+      <Gene>PTEN</Gene>
+      <Status>Presente</Status>
+    </Marker>
+    <Marker>
+      <Gene>TP53</Gene>
+      <Status>Wild-Type</Status>
+    </Marker>
+    <Marker>
+      <Gene>IDH1</Gene>
+      <Status>Non Mutato</Status>
+    </Marker>
+  </Genomic_Profile>
+  <Clinical_Outcome>
+    <Prognosis>Riservata</Prognosis>
+    <Survival_Probability>75-80%</Survival_Probability>
+  </Clinical_Outcome>
+</ARES_Patient_Record>

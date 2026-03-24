@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<ARES_Patient_Record id="GBM-GOLD-001">
+  <Genomic_Profile>
+    <Marker>
+      <Gene>IDH1</Gene>
+      <Status>Mutato (R132H)</Status>
+    </Marker>
+    <Marker>
+      <Gene>EGFR</Gene>
+      <Status>Wild-Type (Nessuna Amplificazione)</Status>
+    </Marker>
+  </Genomic_Profile>
+</ARES_Patient_Record>

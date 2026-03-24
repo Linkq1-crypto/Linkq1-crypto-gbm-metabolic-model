@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<MedicalRecord system="ARES_v4_0" security="Verified">
+  <PatientData>
+    <ID>ARES-GOLD-2011</ID>
+    <AgeGroup>Adulto</AgeGroup>
+    <Condition>MOF+Altre</Condition>
+  </PatientData>
+  <GenomicProfile>
+    <Marker gene="IDH1">Mutato (R132H)</Marker>
+    <Marker gene="EGFR">Stabile</Marker>
+  </GenomicProfile>
+  <SimulationResults>
+    <OptimizedDose>0.76 eV</OptimizedDose>
+    <FinalStatus>RECUPERATO</FinalStatus>
+  </SimulationResults>
+</MedicalRecord>
